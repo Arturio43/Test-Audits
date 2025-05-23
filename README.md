@@ -1,20 +1,21 @@
 # LayerEdge Audit – Manual Report
 
-Hi, I'm an independent security researcher and smart contract auditor.  
-This repository was created to support my audit submission for the LayerEdge project.
+Hi, I'm an independent security researcher and smart contract auditor.
 
-While this GitHub account is new, I've contributed to manual code reviews and vulnerability reporting in early-stage Web3 projects.
+This repository contains a sample audit report and exploit PoC for the LayerEdge project.
 
-## About this audit
+## Files Included
 
-- The audit was performed manually by reviewing the LayerEdge smart contracts.
-- Multiple vulnerabilities were discovered, including a **critical issue** with potential impact on liquidity.
-- A detailed report and suggested mitigations were submitted to the LayerEdge team and shared via Discord due to Sherlock KYC delay.
+- **[LayerEdge_Audit_Report.pdf](./LayerEdge_Audit_Report.pdf)** — Full manual audit report.
+- **[PoC_Exploit_AuthorizeUpgrade.sol](./PoC_Exploit_AuthorizeUpgrade.sol)** — Proof-of-concept exploit demonstrating vulnerability.
 
-## What’s included
+## About Me
 
-- Audit summary
-- Detailed breakdown of the issues
-- Proposed fixes and recommendations
+Feel free to contact me for smart contract audit work or collaborations.
 
-> All feedback and findings are shared with good intentions to strengthen the protocol's security.
+- Telegram: [@TSLO17](https://t.me/TSLO17)
+- GitHub: [Arturio43](https://github.com/Arturio43)
+
+---
+
+*This repository is for demonstration purposes only.*
